@@ -19,7 +19,7 @@
 <properties>
 <!-- dados da conexao -->
 <property name="javax.persistence.jdbc.driver" value="org.hsqldb.jdbcDriver" />
-<property name="javax.persistence.jdbc.url" value="jdbc:hsqldb:E:/rep/hsqldb-2.3.0/hsqldb/data/alo"/>
+<property name="javax.persistence.jdbc.url" value="jdbc:hsqldb:E:/rep2/hsqldb-2.3.0/hsqldb/data/alo"/>
 <property name="javax.persistence.jdbc.user" value="SA" />
 <property name="javax.persistence.jdbc.password" value="" />
 
